@@ -2,7 +2,7 @@ const ROLE = {
   ADMIN: 'admin',
   BASIC: 'basic'
 }
-
+//imagine this as database
 module.exports = {
   ROLE: ROLE,
   users: [
